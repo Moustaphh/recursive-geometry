@@ -8,10 +8,15 @@ You will need Matlab installed on your computer, it also runs on Octave.
 
 # Content
 
-
-<img src="ressources/sierpinsky.jpg" width="425"/> 
-
+**Koch snowflake** 
 
 
-<img src="ressources/k_snowflake.jpg" width="425"/>
+<img src="ressources/k_snowflake.jpg" width="600"/>
+
+
+
+**Sierpinsky triangle**
+
+
+<img src="ressources/sierpinsky.jpg" width="700"/> 
 
